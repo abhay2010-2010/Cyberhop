@@ -3,6 +3,7 @@
 CyberHop is a modern **Expense Management Dashboard** built using **React, Bootstrap, and Chart.js**. It provides a user-friendly interface to track and visualize expenses effectively.
 
 ---
+## Deployed link - https://cyberhop-abhay-kawles-projects.vercel.app/login
 
 ## 🚀 Features
 - 🔹 **User Authentication** (Login & Logout)
@@ -15,7 +16,7 @@ CyberHop is a modern **Expense Management Dashboard** built using **React, Boots
 ---
 
 ## 📸 Screenshots
-![Dashboard Preview](./screenshots/dashboard.png)
+![Dashboard Preview](./src/assets/cyberhop.png)
 
 ---
 
@@ -29,9 +30,12 @@ CyberHop is a modern **Expense Management Dashboard** built using **React, Boots
 ---
 
 ## 📥 Installation & Setup
-Follow these steps to run the project locally:
+git clone https://github.com/<abhay2010-2010>/Cyberhop
+cd Cyberhop
+npm install
+npm run dev
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/<your-username>/cyberhop.git
+git clone https://github.com/<abhay2010-2010>/Cyberhop
 cd cyberhop
