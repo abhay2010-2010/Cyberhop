@@ -53,9 +53,9 @@ const Dashboard = () => {
       <div
         className=" d-flex"
         style={{
-          width: "1060px",
+          width: "950px",
           height: "700px",
-          marginLeft: "10px",
+          marginLeft: "50px",
           backgroundColor:"white",
           borderRadius: "40px",
           overflow: "hidden", // Prevents child elements from overflowing rounded corners
