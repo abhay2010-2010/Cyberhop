@@ -55,7 +55,7 @@ const Dashboard = () => {
         style={{
           width: "1060px",
           height: "700px",
-          marginLeft: "100px",
+          marginLeft: "50px",
           backgroundColor:"white",
           borderRadius: "40px",
           overflow: "hidden", // Prevents child elements from overflowing rounded corners
